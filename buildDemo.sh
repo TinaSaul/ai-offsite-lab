@@ -10,7 +10,7 @@ unset SUBSCRIPTION_ID
 # establish variables
 export surname="tinasaulsberry"
 export RESOURCE_GROUP="$surname-cognitive-search"
-export LOCATION="westus"
+export LOCATION="eastus"
 export STORAGE_ACCOUNT_NAME="cognitivestorage$RANDOM"
 export STORAGE_CONTAINER_NAME="$surname-cognitivecontainer"
 export COGNITIVE_SEARCH_SERVICE_NAME="$surname-searchservice"
